@@ -70,7 +70,8 @@ Electronics & Communication Engineer
 
 > 
 ```markdown
-![Robot in Action](images/demo.gif)
+🎥 [Click to view video](Working_demo.mp4)
+
 ```
 
 ---
